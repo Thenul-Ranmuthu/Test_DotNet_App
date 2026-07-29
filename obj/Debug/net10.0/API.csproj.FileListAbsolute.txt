@@ -117,3 +117,4 @@ D:\Languages and Develoment\dotnet\app2\API\bin\Debug\net10.0\zh-Hans\Microsoft.
 D:\Languages and Develoment\dotnet\app2\API\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 D:\Languages and Develoment\dotnet\app2\API\obj\Debug\net10.0\API.csproj.AssemblyReference.cache
 D:\Languages and Develoment\dotnet\app2\API\obj\Debug\net10.0\API.csproj.Up2Date
+D:\Languages and Develoment\dotnet\app2\API\obj\Debug\net10.0\API.sourcelink.json
