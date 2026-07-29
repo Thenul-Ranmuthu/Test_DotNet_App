@@ -23,7 +23,7 @@ var app = builder.Build();
 
 app.UseCors(opt =>
 {
-    opt.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://test-dot-net-app-fe.vercel.app");
+    opt.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://test-dot-net-app-fe.vercel.app","https://localhost:3000");
 });
 
 
