@@ -4,9 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class ProductsController(IProductsService productsService) : ControllerBase
+    public class ProductsController(IProductsService productsService) : BaseApiController
     {
         [HttpGet()]
         public async Task<ActionResult<List<Product>>> GetProducts()
